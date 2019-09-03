@@ -1,19 +1,16 @@
-
 [
-	{{
-	"name":"Apple",
-	"weburl":"https://tiimg.tistatic.com/fp/1/005/527/best-grade-fresh-apple-fruit-825.jpg"
-
-	},
-
-	{
-	"name":"Milk" ,
-	"weburl":"https://i0.wp.com/metro.co.uk/wp-content/uploads/2019/03/PRI_67869229-e1553783552552.jpg"
-},
-{
-	"name":"Banana" ,
-	"weburl":"https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/05/18/Pictures/_cdbf52fa-5a63-11e8-b431-73159b4b09e2.jpg"
-
-}}
-	
+   {
+      {
+         "name":"Apple",
+         "weburl":"https://tiimg.tistatic.com/fp/1/005/527/best-grade-fresh-apple-fruit-825.jpg"
+      },
+      {
+         "name":"Milk",
+         "weburl":"https://i0.wp.com/metro.co.uk/wp-content/uploads/2019/03/PRI_67869229-e1553783552552.jpg"
+      },
+      {
+         "name":"Banana",
+         "weburl":"https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/05/18/Pictures/_cdbf52fa-5a63-11e8-b431-73159b4b09e2.jpg"
+      }
+   }
 ]
